@@ -1,0 +1,1 @@
+3 simples applications permettent d'appliquer des opérations sur une image sélectionnée .
